@@ -77,6 +77,7 @@ cd logicagent
    ```python
    gemini_api_key = "BURAYA_API_ANAHTARINIZI_GIRIN"
    ```
+   ![image](https://github.com/user-attachments/assets/c22bd232-5eea-4033-aa0b-7351774d4ec6)
 
 ## Proje Çalıştırma
 

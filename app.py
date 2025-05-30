@@ -464,7 +464,7 @@ def run_demo():
     print("=" * 50)
     
     # Ajanı Gemini API anahtarı ile başlat
-    gemini_api_key = "AIzaSyBRBzeBqWRl8MVa7VzAZcn1bwLmTHYgRU8"
+    gemini_api_key = "Lütfen Buraya Kendi APInizi giriniz"
     agent = LogicAgent(api_key=gemini_api_key)
     
     print("\nMevcut cihaz durumları:")
